@@ -1,6 +1,6 @@
 # Master_Duel
 数据继承节点整合
-'''
+
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD9%20%7C%20%E2%AC%87%EF%B8%8F%204.6MB%2Fs%7CDisney%7COpen...
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.248:8880?path=%2FTelegramU0001F1E8U0001F1F3%3Fed&security=&encryption=none&host=sk.laoyoutiao.link&type=ws#GB_speednode_0010
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.149:8880?path=%2F&security=&encryption=none&host=us.laoyoutiao.link&type=ws#GB_speednode_0011
@@ -48,4 +48,3 @@ trojan://Aimer@103.116.7.100:2087?path=%2F%3Fed&security=tls&host=epga.aimercc.d
 trojan://Aimer@103.116.7.220:2096?path=%2F%3Fed&security=tls&host=epga.aimercc.dpdns.org&type=ws&sni=epga.aimercc.dpdns.org#JP_speednode_0037
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=&encryption=none&host=hk.laoyoutiao.link&type=ws#KZ_speednode_0038
 trojan://Aimer@31.43.179.27:443?path=%2F%3Fed&security=tls&host=epga.aimercc.dpdns.org&type=ws&sni=epga.aimercc.dpdns.org#KZ_speednode_0039
-'''
